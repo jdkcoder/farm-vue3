@@ -1,0 +1,28 @@
+{
+  "name": "vue-example",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "farm start",
+    "start": "farm start",
+    "build": "farm build",
+    "preview": "farm preview",
+    "clean": "farm clean"
+  },
+  "dependencies": {
+    "vue": "latest",
+    "vue-router": "^4.4.0"
+  },
+  "devDependencies": {
+    "@farmfe/cli": "latest",
+    "@farmfe/core": "latest",
+    "@farmfe/js-plugin-postcss": "^1.7.0",
+    "@farmfe/plugin-sass": "^1.0.5",
+    "@unocss/postcss": "^0.61.0",
+    "@unocss/reset": "^0.61.0",
+    "@unocss/transformer-directives": "latest",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "core-js": "latest",
+    "unocss": "latest",
+    "unplugin-vue-router": "^0.10.0"
+  }
+}

@@ -10,19 +10,21 @@
   },
   "dependencies": {
     "vue": "latest",
-    "vue-router": "^4.4.0"
+    "vue-router": "latest"
   },
   "devDependencies": {
     "@farmfe/cli": "latest",
     "@farmfe/core": "latest",
-    "@farmfe/js-plugin-postcss": "^1.7.0",
-    "@farmfe/plugin-sass": "^1.0.5",
-    "@unocss/postcss": "^0.61.0",
-    "@unocss/reset": "^0.61.0",
+    "@farmfe/js-plugin-postcss": "latest",
+    "@farmfe/plugin-sass": "latest",
+    "@unocss/postcss": "latest",
+    "@unocss/reset": "latest",
     "@unocss/transformer-directives": "latest",
-    "@vitejs/plugin-vue": "^5.0.5",
+    "@vitejs/plugin-vue": "latest",
     "core-js": "latest",
+    "stylus-loader": "latest",
     "unocss": "latest",
-    "unplugin-vue-router": "^0.10.0"
+    "unplugin-vue-router": "latest",
+    "stylus": "latest"
   }
 }
